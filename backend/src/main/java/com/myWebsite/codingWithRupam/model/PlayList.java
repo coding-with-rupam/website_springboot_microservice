@@ -12,6 +12,6 @@ import lombok.NoArgsConstructor;
 @Data
 public class PlayList {
     private String title;
-    private String youtubeId;
+    private String playlistId;
     private String description;
 }
